@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "33701854863",
+    "firebase_url": "https://emelda-6b7a8.firebaseio.com",
+    "project_id": "emelda-6b7a8",
+    "storage_bucket": "emelda-6b7a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33701854863:android:b32a1eaa3d232dcb",
+        "android_client_info": {
+          "package_name": "com.example.travelmantic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33701854863-51d01erp3n2hdq1mpenav1j3gs4c536i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travelmantic",
+            "certificate_hash": "223d7f3b093f16302276533b2378f32d2704a05b"
+          }
+        },
+        {
+          "client_id": "33701854863-pk27md0nj40t2199i9i47oag9iuf7omv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx5w-hBTR-P4_DkZ1uE0kHvr7tfydUroI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33701854863-pk27md0nj40t2199i9i47oag9iuf7omv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33701854863:android:45d4b2f6e900ffbb",
+        "android_client_info": {
+          "package_name": "com.example.travelmanticalc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33701854863-pk27md0nj40t2199i9i47oag9iuf7omv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx5w-hBTR-P4_DkZ1uE0kHvr7tfydUroI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33701854863-pk27md0nj40t2199i9i47oag9iuf7omv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

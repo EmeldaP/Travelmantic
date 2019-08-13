@@ -1,0 +1,74 @@
+package com.example.travelmantic;
+
+
+import java.io.Serializable;
+
+public class TravelDeal implements Serializable {
+    private String id;
+    private  String title;
+    private String  price;
+    private  String description;
+    private String imageUrl;
+    private  String imageName;
+
+    public TravelDeal() {
+    }
+
+    public TravelDeal(String title, String price, String description,
+                      String imageUrl,String imageName) {
+        this.setId(id);
+        this.setTitle(title);
+        this.setPrice(price);
+        this.setDescrption(description);
+        this.setImageUrl(imageUrl);
+        this.setImageName(imageName);
+    }
+
+    public String getImageName() {
+        return imageName;
+    }
+
+    public void setImageName(String imageName) {
+        this.imageName = imageName;
+    }
+
+    public String getId() {
+        return id;
+    }
+
+    public void setId(String id) {
+        this.id = id;
+    }
+
+    public String getTitle() {
+        return title;
+    }
+
+    public void setTitle(String title) {
+        this.title = title;
+    }
+
+    public String getPrice() {
+        return price;
+    }
+
+    public void setPrice(String price) {
+        this.price = price;
+    }
+
+    public String getDescrption() {
+        return description;
+    }
+
+    public void setDescrption(String descrption) {
+        this.description = descrption;
+    }
+
+    public String getImageUrl() {
+        return imageUrl;
+    }
+
+    public void setImageUrl(String imageUrl) {
+        this.imageUrl = imageUrl;
+    }
+}
